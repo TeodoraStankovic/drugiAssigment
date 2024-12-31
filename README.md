@@ -1,2 +1,2 @@
-# drugiAssigment
+# drugi-Assigment
 Drugi Assigment
